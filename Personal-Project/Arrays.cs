@@ -5,7 +5,7 @@ namespace Personal_Project
     {
         public Arrays_2()
         {
-            /*
+            /*hi
            int[] numbers = new int[5];
            numbers[0] = 4;
            numbers[1] = 8;
