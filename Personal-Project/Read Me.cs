@@ -171,7 +171,28 @@ namespace Personal_Project
                 "To subtract hours or days, use a negative number with the AddHours or AddDays function, respectively. " +
                 "The Month function will give the month as a number and TotalDays gives the number of days between two dates. " +
                 "The Subtract function subtracts the given date from the current date. TimeSpan gives the amount of time between two dates.");
+            Console.WriteLine("Working with strings");
+            Console.WriteLine("Time spent: 1 houe.");
+            Console.WriteLine("'Massaging data' is a term developers use to refer to taking raw data from a file/database and manipulate it into an appropriate format. " +
+                "The backslash (called an escape character/sequence) is used to insert escape sequences into a string literal, " +
+                "basically allowing us to insert special characters and insert line feeds into a literal string." +
+                "One backslash is inserted before the first special character and one is placed before the last special character. " +
+                "A \"\n\", called an escape character, is used to insert a new line. " +
+                "An @ is used before the string literal to indicate that we want to use the \\ as a true backslash, not an escape character." +
+                "The String.Format function is used to pass arguments through replacement codes, so you can print items using {}, depending on which order they are placed. " +
+                "To display currency, use the String.Format function, putting \":C\" after the numeric replacement code." +
+                "To display a number with decimal points and commas, use the String.Format function, putting \":N\" after the numeric replacement code." +
+                "To represent a value as a percentage, use the String.Format function, putting \":P\" after the numeric replacement code." +
+                "To create a custom format, for example the format of a phone number, use the String.Format function, putting \"(###)###-####\" after the numeric replacement code." +
+                "With a custom format, the values go in from right to left." +
+                "The .Substring() function prints only what is after the position given in the parentheses, which could be a range or just a number." +
+                "The .ToUpper() function prints the text in upper case." +
+                "The .Replace(\"  ", " \") function replaces whatever is in the first quotations with what is in the second quotations." +
+                "The .Remove() function removes whatever text is in the position that is in the parentheses, which can also be a range." +
+                "The .Trim function trims the extra spaces at the beginning and ending of the string literal!");
+
             Console.ReadLine();
+
 
         }
     }
