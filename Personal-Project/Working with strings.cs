@@ -28,7 +28,6 @@ namespace Personal_Project
             myString = String.Format("Length before: {0} -- Length after: {1}",
                 myString.Length, myString.Trim().Length);
             
-
             
             for (int i = 1; i < 100; i++)
             {
@@ -42,7 +41,6 @@ namespace Personal_Project
             {
                 myString.Append("--");
                 myString.Append(i);
-
 
             }
 

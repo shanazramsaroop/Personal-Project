@@ -190,6 +190,13 @@ namespace Personal_Project
                 "The .Replace(\"  ", " \") function replaces whatever is in the first quotations with what is in the second quotations." +
                 "The .Remove() function removes whatever text is in the position that is in the parentheses, which can also be a range." +
                 "The .Trim function trims the extra spaces at the beginning and ending of the string literal!");
+            Console.WriteLine("");
+            Console.WriteLine("Working with Classes");
+            Console.WriteLine("Time spent: 45 minutes.");
+            Console.WriteLine("A class is a data type which allows you to define additional properties and methods " +
+                "so you can define a custom class with properties and methods and create instances of those classes using the new operator. " +
+                "A class is like a blueprint and each instance of that class is just an example of the blueprint." +
+                "The function prop is used to define a property in a class. ");
 
             Console.ReadLine();
 
