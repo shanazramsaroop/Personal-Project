@@ -197,6 +197,13 @@ namespace Personal_Project
                 "so you can define a custom class with properties and methods and create instances of those classes using the new operator. " +
                 "A class is like a blueprint and each instance of that class is just an example of the blueprint." +
                 "The function prop is used to define a property in a class. ");
+            Console.WriteLine("");
+            Console.WriteLine("Understanding Scope and Accessibility Modifiers");
+            Console.WriteLine("Time spent: 30 minutes.");
+            Console.WriteLine("You can only use and access a variable if it is inside the respective codeblock, otherwise you need to declare it again." +
+                "A private field is like a property except, it is private in nature but it is available to all of the members of the class. " +
+                "Private and public are both accessibility modifiers, they are used to implement a tentative object oriented programming called encapsulation. " +
+                "Private means that a method can be called by any other method inside of the same class. ");
 
             Console.ReadLine();
 
