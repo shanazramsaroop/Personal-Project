@@ -6,4 +6,7 @@
     <RootNamespace>Personal_Project</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="Uniderstanding classes and modifiers.cs" />
+  </ItemGroup>
 </Project>
