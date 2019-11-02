@@ -204,6 +204,15 @@ namespace Personal_Project
                 "A private field is like a property except, it is private in nature but it is available to all of the members of the class. " +
                 "Private and public are both accessibility modifiers, they are used to implement a tentative object oriented programming called encapsulation. " +
                 "Private means that a method can be called by any other method inside of the same class. ");
+            Console.WriteLine("");
+            Console.WriteLine("More about Classes and Methods");
+            Console.WriteLine("Time spent: 1 hour.");
+            Console.WriteLine("Lifetime of objects; objects live for a period of time then they are removed from memory. " +
+                "Constructors are that allow us to write code at the moment when a new instance of a class is created." +
+                "Equating a class to 'null' removes the references to that class." +
+                "Constructors are used in order to put an object into a valid state. " +
+                "The keyword 'this' is optional and refers to this instance of this object, helps clarify where the variable name is coming from. " +
+                "They keyword 'static' means that you do not have to create an instance of the class in order to use the method.");
 
             Console.ReadLine();
 
