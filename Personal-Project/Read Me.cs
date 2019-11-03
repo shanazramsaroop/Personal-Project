@@ -213,7 +213,14 @@ namespace Personal_Project
                 "Constructors are used in order to put an object into a valid state. " +
                 "The keyword 'this' is optional and refers to this instance of this object, helps clarify where the variable name is coming from. " +
                 "They keyword 'static' means that you do not have to create an instance of the class in order to use the method.");
-
+            Console.WriteLine("");
+            Console.WriteLine("Creating and adding references to assemblies");
+            Console.WriteLine("Time spent: 1 hour. ");
+            Console.WriteLine("In this video, I created a refeernce and added it " +
+                "If it is a free or open source package, that is available from nuget, use the nuget package manager." +
+                "We can also create our own class library then add a reference to it by browsing." +
+                "Or we could create the client and the library inside of the same solution, " +
+                "then we can reference it in the add reference dialogue ");
             Console.ReadLine();
 
 
