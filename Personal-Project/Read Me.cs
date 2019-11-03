@@ -242,7 +242,11 @@ namespace Personal_Project
                 "The 2nd is method synatx." +
                 "The keyword 'var' means that we are going to let the compiler figure out what the data type is." +
                 "In the code, there is many examples of the LINQ extension methods available.");
-
+            Console.WriteLine("");
+            Console.WriteLine("Enumerations and the Switch decision statement");
+            Console.WriteLine("Time spent: 30 minutes. ");
+            Console.WriteLine("The switch statement is more concise than the if statement, when there is a lot of things." +
+                "An enumeration is a special data type that gives us a textual equivalent to a numerical value, removing any ambiguity.");
 
             Console.ReadLine();
 
