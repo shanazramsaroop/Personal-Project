@@ -247,6 +247,13 @@ namespace Personal_Project
             Console.WriteLine("Time spent: 30 minutes. ");
             Console.WriteLine("The switch statement is more concise than the if statement, when there is a lot of things." +
                 "An enumeration is a special data type that gives us a textual equivalent to a numerical value, removing any ambiguity.");
+            Console.WriteLine("");
+            Console.WriteLine("Gracefully handling exceptions");
+            Console.WriteLine("Time spent: 30 minutes");
+            Console.WriteLine("Some errors happen during runtime; they happen when the compiled .NET assembly is in the act of executing." +
+                "One should always account for any error that may be caused by the user. " +
+                "One of the ways to code defensively, is by using a try catch block." +
+                "Exceptions help the user to understand what error is happening, so it can be fixed. ");
 
             Console.ReadLine();
 
