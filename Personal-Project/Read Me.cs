@@ -233,6 +233,16 @@ namespace Personal_Project
                 "Generic collections requires that the programmer make it specific by giving it the data type should be allowed inside. " +
                 "A dictionary is similar to an actual dictionary, it will have a key, to find the word, " +
                 "and definition for any word you look up. ");
+            Console.WriteLine("");
+            Console.WriteLine("Working with LINQ");
+            Console.WriteLine("Time spent: 30 minutes. ");
+            Console.WriteLine("LINQ stands for the language integrated query." +
+                "It provides a way to filter, sort and perform other operations on collections of data." +
+                "There is 2 different synatx, the query synatx, which resembles ths structured query language, sequel." +
+                "The 2nd is method synatx." +
+                "The keyword 'var' means that we are going to let the compiler figure out what the data type is." +
+                "In the code, there is many examples of the LINQ extension methods available.");
+
 
             Console.ReadLine();
 
