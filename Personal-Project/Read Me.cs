@@ -221,6 +221,19 @@ namespace Personal_Project
                 "We can also create our own class library then add a reference to it by browsing." +
                 "Or we could create the client and the library inside of the same solution, " +
                 "then we can reference it in the add reference dialogue ");
+            Console.WriteLine("");
+            Console.WriteLine("Working with Collections");
+            Console.WriteLine("Time spent: 45 minutes. ");
+            Console.WriteLine("Collections are great when working with all data types. " +
+                "LINQ stands for the language integrated query." +
+                "The 2 collections discussed were lists and dictionaries." +
+                "Array lists are dynamically sized, you don't need to specify how many items in it." +
+                "It also has cool features, such as sorting, removal of items ..." +
+                "With array lists, there's no way to easily limit the data type, so incorrect data can be entered." +
+                "Generic collections requires that the programmer make it specific by giving it the data type should be allowed inside. " +
+                "A dictionary is similar to an actual dictionary, it will have a key, to find the word, " +
+                "and definition for any word you look up. ");
+
             Console.ReadLine();
 
 
