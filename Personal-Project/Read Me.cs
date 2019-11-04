@@ -254,6 +254,11 @@ namespace Personal_Project
                 "One should always account for any error that may be caused by the user. " +
                 "One of the ways to code defensively, is by using a try catch block." +
                 "Exceptions help the user to understand what error is happening, so it can be fixed. ");
+            Console.WriteLine("");
+            Console.WriteLine("Events and event-driven programs");
+            Console.WriteLine("Time spent: 1 hour.");
+            Console.WriteLine("Events allow you to respond by handling key moments in the lifecycle of execution, " +
+                "so you can write code to respond to an event being raised.");
 
             Console.ReadLine();
 
