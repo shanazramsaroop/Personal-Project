@@ -5,7 +5,7 @@ namespace Personal_Project
     {
         public Helper_Method()
         {
-            Console.WriteLine("The name game");
+            Console.WriteLine("The name game!");
 
 
             Console.Write("What's your first name? ");
