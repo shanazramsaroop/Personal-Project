@@ -82,7 +82,7 @@ Understanding namespaces and working with .NET class library (18 mins) </br>
 
 What I learned in each video:</br>
 </br>
-Week one:
+Week one:</br>
 </br>
 Installing Visual Studio</br>
 Time spent: 1 hour. </br>
@@ -93,7 +93,7 @@ Time spent: 1 hour. </br>
 In this video, I got familiar with visual studio and ran a simple "Hello World" code, which printed "Hello World!". I also linked and pushed my porject to GitHub. </br>
 </br>
 </br>
-Week 2:
+Week 2:</br>
 </br>
 Understanding your first c# program</br>
 Time spent: 1 hour. </br>
@@ -104,7 +104,7 @@ Time spent: 1 hour. </br>
 With the if statement, the output depends on the user's input. The "=" is an assignemtn operator while "==" is used for equalivalency. The if statement works by evaluating the input againt the condition and if the condition is true, whatever codeblock is directly below, will be executed. "else if" can be used after an is statement, and it evaluates the input again(if the input failed the first evaluation), then it will also execute the codebloc directly below. A scope of a variable is where a variable is accessible. The "+=" is used to concatenate and it adds one variable to another. </br>
 </br>
 </br>
-Week 3:
+Week 3:</br>
 </br>
 Understanding data types and variables</br>
 Time spent: 1 hour. </br>
@@ -114,6 +114,9 @@ For iteration statement</br>
 Time spent: 1 hour. </br>
 The for iteration is used to loop/iterate through a sequence of things to find something(successful match). The format for a for iteration is: for(declare variable; condition; change/increment). A break is used to break out of the for iteration. Using a breakpoint can help programmers to debug the program. </br>
 </br>
+</br>
+Week 4:</br>
+</br>
 Understanding arrays</br>
 Time spent: 1 hour. </br>
 An array is a sequence/collection of data. The "Length" function identifies how many items in the array. The Reverse function reverses the order of the array. The foreach statement executes a statement or a block of statements for each element.</br>
@@ -121,6 +124,9 @@ An array is a sequence/collection of data. The "Length" function identifies how 
 Defining and calling methods</br>
 Time spent: 1 hour and 30 minutes. </br>
 Methods are used to organise code, eliminate duplicate code and take certain features and give it a name. Using methods improves the readability and reduces bloat. Methods are a block of code defined by {} and are defined inside of a class but outside of the previous method. The return statement terminates execution of the method in which it appears and returns control to the calling method. </br>
+</br>
+</br>
+Week 5:</br>
 </br>
 While iteration statement</br>
 Time spent: 1 hour. </br>
@@ -130,6 +136,9 @@ Working with dates and times</br>
 Time spent: 30 minutes. </br>
 The function DateTime gives the current date and time(in the form mm/dd/yy and HH:MM pm/am). The ToShortDateString function only prints the current date(mm/dd/yy). The ToShortTimeString function gives the current time only (HH:MM pm/am). The ToLongDateString print the date in the form day of week, month date, year. The ToLongTimeString prints the time in the form HH:MM:SS pm/am. The AddDay funtion adds days to the current date and the AddHours adds hours to the current time. To subtract hours or days, use a negative number with the AddHours or AddDays function, respectively. The Month function will give the month as a number and TotalDays gives the number of days between two dates. The Subtract function subtracts the given date from the current date. TimeSpan gives the amount of time between two dates.
 </br>
+</br>
+Week 6: </br>
+</br>
 Working with strings</br>
 Time spent: 1 hour</br>
 'Massaging data' is a term developers use to refer to taking raw data from a file/database and manipulate it into an appropriate format.The backslash (called an escape character/sequence) is used to insert escape sequences into a string literal,basically allowing us to insert special characters and insert line feeds into a literal string. One backslash is inserted before the first special character and one is placed before the last special character. A \"\n\", called an escape character, is used to insert a new line. An @ is used before the string literal to indicate that we want to use the \\ as a true backslash, not an escape character.The String.Format function is used to pass arguments through replacement codes, so you can print items using {}, depending on which order they are placed. To display currency, use the String.Format function, putting \":C\" after the numeric replacement code. To display a number with decimal points and commas, use the String.Format function, putting \":N\" after the numeric replacement code. To represent a value as a percentage, use the String.Format function, putting \":P\" after the numeric replacement code. To create a custom format, for example the format of a phone number, use the String.Format function, putting \"(###)###-####\" after the numeric replacement code. With a custom format, the values go in from right to left. The .Substring() function prints only what is after the position given in the parentheses, which could be a range or just a number. The .ToUpper() function prints the text in upper case. The .Replace(\"  ", " \") function replaces whatever is in the first quotations with what is in the second quotations. The .Remove() function removes whatever text is in the position that is in the parentheses, which can also be a range. The .Trim function trims the extra spaces at the beginning and ending of the string literal!");</br>
@@ -137,6 +146,9 @@ Time spent: 1 hour</br>
 Working with Classes</br>
 Time spent: 45 minutes.</br>
 A class is a data type which allows you to define additional properties and methods so you can define a custom class with properties and methods and create instances of those classes using the new operator. A class is like a blueprint and each instance of that class is just an example of the blueprint. The function prop is used to define a property in a class.</br>
+</br>
+</br>
+Week 7:</br>
 </br>
 Understanding Scope and Accessibility Modifiers</br>
 Time spent: 30 minutes.</br>
@@ -146,6 +158,9 @@ More about Classes and Methods.</br>
 Time spent: 1 hour.</br>
 Lifetime of objects; objects live for a period of time then they are removed from memory. Constructors are that allow us to write code at the moment when a new instance of a class is created. Equating a class to 'null' removes the references to that class. Constructors are used in order to put an object into a valid state. The keyword 'this' is optional and refers to this instance of this object, helps clarify where the variable name is coming from. They keyword 'static' means that you do not have to create an instance of the class in order to use the method.</br>
 </br>
+</br>
+Week 8: </br>
+</br>
 Creating and adding references to assemblies.</br>
 Time spent: 1 hour. </br>
 In this video, I created a refeernce and added it. If it is a free or open source package, that is available from nuget, use the nuget package manager. We can also create our own class library then add a reference to it by browsing. Or we could create the client and the library inside of the same solution, then we can reference it in the add reference dialogue. </br>
@@ -154,6 +169,9 @@ Working with Collections.</br>
 Time spent: 45 minutes. </br>
 Collections are great when working with all data types. LINQ stands for the language integrated query. The 2 collections discussed were lists and dictionaries. Array lists are dynamically sized, you don't need to specify how many items in it. It also has cool features, such as sorting, removal of items ..." With array lists, there's no way to easily limit the data type, so incorrect data can be entered. Generic collections requires that the programmer make it specific by giving it the data type should be allowed inside. A dictionary is similar to an actual dictionary, it will have a key, to find the word, and definition for any word you look up. </br>
 </br>
+</br>
+Week 9:</br>
+</br>
 Working with LINQ.</br>
 Time spent: 30 minutes. </br>
 LINQ stands for the language integrated query. It provides a way to filter, sort and perform other operations on collections of data. There is 2 different synatx, the query synatx, which resembles ths structured query language, sequel. The 2nd is method synatx. The keyword 'var' means that we are going to let the compiler figure out what the data type is. In the code, there is many examples of the LINQ extension methods available.</br>
@@ -161,6 +179,9 @@ LINQ stands for the language integrated query. It provides a way to filter, sort
 Enumerations and the Switch decision statement.</br>
 Time spent: 30 minutes.</br>
 The switch statement is more concise than the if statement, when there is a lot of things. An enumeration is a special data type that gives us a textual equivalent to a numerical value, removing any ambiguity.</br>
+</br>
+</br>
+Week 10:</br>
 </br>
 Gracefully handling exceptions.</br>
 Time spent: 30 minutes.</br>
