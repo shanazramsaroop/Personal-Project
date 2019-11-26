@@ -190,3 +190,15 @@ Some errors happen during runtime; they happen when the compiled .NET assembly i
 Events and event-driven programs.</br>
 Time spent: 1 hour.</br>
 Events allow you to respond by handling key moments in the lifecycle of execution, so you can write code to respond to an event being raised.</br>
+</br>
+</br>
+Week 11:
+</br>
+Where to go from here </br>
+Time spent: 45 minutes. </br>
+Bob Taber talked about what to do now that we have learned all this information about c#. He talked about how to use the community of programmers to help solve any prolems you run into and what to learn now that this course is nearly done. When you run into an error, he gave tips as to how to use the community to resolve it. Some of these tips are: </br>
+- use key phrases from error message when reasearching </br>
+- do you own research first instead of immediately asking for help on forums </br>
+- if you ask for help on forums, ensure that your post has a clear request, it is in an appropriate category, the title is clear and simple, there is a short synopsis of the problem, you include screenshots or code snipets, you say what you already tried and what was the output, state which opertaion system, programming version, etc and when you find a solution, post what you did to resolve the issue. </br>
+To view forums he suggested visiting msdn.microsft.com/formums or programmers.stackexchange.com. </br>
+
