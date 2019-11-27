@@ -201,7 +201,7 @@ Bob Taber talked about what to do now that we have learned all this information 
 - use key phrases from error message when reasearching </br>
 - do you own research first instead of immediately asking for help on forums </br>
 - if you ask for help on forums, ensure that your post has a clear request, it is in an appropriate category, the title is clear and simple, there is a short synopsis of the problem, you include screenshots or code snipets, you say what you already tried and what was the output, state which opertaion system, programming version, etc and when you find a solution, post what you did to resolve the issue. </br>
-To view forums he suggested visiting (https://social.msdn.microsoft.com/Forums/en-US/home) or (programmers.stackexchange.com.) </br>
+To view forums he suggested visiting https://social.msdn.microsoft.com/Forums/en-US/home or https://softwareengineering.stackexchange.com/</br>
 </br>
 He suggested that I learn more about rational databases, such as SQL, write code and rely less on pre-written software and choose a presentation platform such as HTML or Java. Additionally, learn the basic tenants of application architecture, that is, how to structure code into layers of responsibilities. Get familiar with any software development tools that are used with teams, like Git.</br>
 </br>
