@@ -207,6 +207,12 @@ He suggested that I learn more about rational databases, such as SQL, write code
 </br>
 Operations, expressions and statements </br>
 Time spent: 20 minutes.
-Statments are complete thoughts in c#, it is typically made up of one line of code and is made up of expressions. Expressions are made up of one or more operators or operand. Parenthesis has many purposes aside form calling a class, such as for order of operations and to define the bounary of an expression. To test 2 conditions, like if a and b are true, use && and to test if a or b are true, use ||. 
+Statments are complete thoughts in c#, it is typically made up of one line of code and is made up of expressions. Expressions are made up of one or more operators or operand. Operands are like literal strings, variables and objects(eg. the Console class). Some operators are less than (<), more than (>) and equal to (==). Parenthesis has many purposes aside form calling a class, such as for order of operations and to define the bounary of an expression. To test 2 conditions, like if a and b are true, use && and to test if a or b are true, use ||. The way you access a member of a class is by using the dot (.), which is referred to as the member access operator. </br>
+</br>
+</br>
+Week 12:</br>
+</br>
+Working with code files, projects and solutions. </br>
+Time spent: 20 minutes.</br>
 
 
