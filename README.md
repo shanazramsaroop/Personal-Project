@@ -1,32 +1,32 @@
 # Personal-Project
 **C#** </br>
  </br>
-Goals </br> 
+**Goals** </br> 
 Complete the C# fundametals for absolute beginners course </br>
 </br>
 
-Boundaries / Scope </br>
+**Boundaries / Scope** </br>
 Complete course intrduction. </br>
 Complete understanding namespaces and wokring with .NET class library </br>
 </br>
 
-Success criteria </br>
+**Success criteria** </br>
 Create my own program </br>
 Log my progress weekly to show my activity </br>
 </br>
 
-Constraints </br>
+**Constraints** </br>
 Learning everything from free online sources </br>
 </br>
 
-Stakeholders </br>
+**Stakeholders** </br>
 Professor- grade </br>
 Parents- investing in future and success, make them proud </br>
 Persepctive employers- will make me more employable after having made my own program </br>
 </br>
 </br>
 
-Timelines </br>
+**Timelines** </br>
 </br>
 Week: </br>
 </br>
