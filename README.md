@@ -194,6 +194,7 @@ Events allow you to respond by handling key moments in the lifecycle of executio
 </br>
 Week 11:
 </br>
+</br>
 Where to go from here </br>
 Time spent: 45 minutes. </br>
 Bob Taber talked about what to do now that we have learned all this information about c#. He talked about how to use the community of programmers to help solve any prolems you run into and what to learn now that this course is nearly done. When you run into an error, he gave tips as to how to use the community to resolve it. Some of these tips are: </br>
@@ -206,6 +207,6 @@ He suggested that I learn more about rational databases, such as SQL, write code
 </br>
 Operations, expressions and statements </br>
 Time spent: 20 minutes.
-Statments are complete thoughts in c#, it is typically made up of one line of code and is made up of expressions. Expressions are made up of one or more operators or operand. Parenthesis has many purposes aside form calling a class, such as for order of operations and to define the bounary of an expression. To test 2 conditions, like if a and b are true, use && and to test of a or b are true, use ||. 
+Statments are complete thoughts in c#, it is typically made up of one line of code and is made up of expressions. Expressions are made up of one or more operators or operand. Parenthesis has many purposes aside form calling a class, such as for order of operations and to define the bounary of an expression. To test 2 conditions, like if a and b are true, use && and to test if a or b are true, use ||. 
 
 
