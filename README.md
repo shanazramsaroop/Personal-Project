@@ -217,5 +217,11 @@ Statments are complete thoughts in c#, it is typically made up of one line of co
 **Working with code files, projects and solutions.**
 </br>
 Time spent: 20 minutes.</br>
+Bob showed how to navigate through the different sections of a project, such as the solution explorer. The solution explorer is the main navigation device to the other files and settings that comprise the program. One or more projects are organised into soltions. He also showed where all of the saved previous projects were saved on the computer. A ".sln" file (solution) contains information about all the projects that are this umbrella solution. A ".csproj" (CS project) file contains references to all the files that are associated with this project and any other metadata. The bin folder stores a binary version of the code. Process of converting the written code to a machine readable language is called compilation. 
+</br>
+</br>
+Understanding Namespaces and Working with the .NET Class Library </br>
+Time spent: 30 minutes. </br>
+
 
 
