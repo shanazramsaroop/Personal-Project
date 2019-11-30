@@ -222,7 +222,7 @@ Bob showed how to navigate through the different sections of a project, such as 
 </br>
 **Understanding Namespaces and Working with the .NET Class Library** </br>
 Time spent: 30 minutes. </br>
-The bin directory contains a debugs and a release version. The debug version contains additional files required by visual studio to connect to the execution of the compiled executable, which allows us to step through. 
+The bin directory contains a debugs and a release version. The debug version contains additional files required by visual studio to connect to the execution of the compiled executable, which allows us to step through. We don't have to type System.Console. everytime we want to use a function from the System namespace because, we put "using System; " at the beginning of the file. To find the classes or methods that we need, search the microsoft site (use site:microsft.com in bing)for a code snipet taht you can use for whatever is your purpose and you will see the functions used. If you add a function of a class that you are not "using", then visual studio should be able to find which class it belongs to and add it. 
 
 
 
