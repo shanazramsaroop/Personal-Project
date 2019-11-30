@@ -205,7 +205,7 @@ To view forums he suggested visiting https://social.msdn.microsoft.com/Forums/en
 </br>
 He suggested that I learn more about rational databases, such as SQL, write code and rely less on pre-written software and choose a presentation platform such as HTML or Java. Additionally, learn the basic tenants of application architecture, that is, how to structure code into layers of responsibilities. Also, get familiar with any software development tools that are used with teams, like Git.</br>
 </br>
-__Operations, expressions and statements.__
+**Operations, expressions and statements.**
 </br>
 Time spent: 20 minutes.
 Statments are complete thoughts in c#, it is typically made up of one line of code and is made up of expressions. Expressions are made up of one or more operators or operand. Operands are like literal strings, variables and objects(eg. the Console class). Some operators are less than (<), more than (>) and equal to (==). Parenthesis has many purposes aside form calling a class, such as for order of operations and to define the bounary of an expression. To test 2 conditions, like if a and b are true, use && and to test if a or b are true, use ||. The way you access a member of a class is by using the dot (.), which is referred to as the member access operator. </br>
@@ -220,8 +220,9 @@ Time spent: 20 minutes.</br>
 Bob showed how to navigate through the different sections of a project, such as the solution explorer. The solution explorer is the main navigation device to the other files and settings that comprise the program. One or more projects are organised into soltions. He also showed where all of the saved previous projects were saved on the computer. A ".sln" file (solution) contains information about all the projects that are this umbrella solution. A ".csproj" (CS project) file contains references to all the files that are associated with this project and any other metadata. The bin folder stores a binary version of the code. Process of converting the written code to a machine readable language is called compilation. 
 </br>
 </br>
-Understanding Namespaces and Working with the .NET Class Library </br>
+**Understanding Namespaces and Working with the .NET Class Library** </br>
 Time spent: 30 minutes. </br>
+The bin directory contains a debugs and a release version. The debug version contains additional files required by visual studio to connect to the execution of the compiled executable, which allows us to step through. 
 
 
 
